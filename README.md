@@ -1,5 +1,25 @@
-# Башня (Stack Tower) — прототип для Яндекс Игр
+<div align="center">
 
+<img src="promo/cover-800x470.png" alt="Башня">
+
+# Башня
+
+**Гиперказуальная аркада для Яндекс Игр: ставь блоки ровно, нависающее отрезается.**
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Canvas_2D-E34F26?style=flat-square&logo=html5&logoColor=white" alt="Canvas 2D"> <img src="https://img.shields.io/badge/Яндекс_Игры-FC3F1D?style=flat-square&logo=yandex&logoColor=white" alt="Яндекс Игры">
+
+</div>
+
+<table>
+<tr>
+<td align="center" valign="top"><img src="promo/screenshots/tower.png" alt="tower" width="180"></td>
+<td align="center" valign="top"><img src="promo/screenshots/falling-piece.png" alt="falling-piece" width="180"></td>
+<td align="center" valign="top"><img src="promo/screenshots/perfect-flash.png" alt="perfect-flash" width="180"></td>
+<td align="center" valign="top"><img src="promo/screenshots/high-dawn.png" alt="high-dawn" width="180"></td>
+</tr>
+</table>
+
+<!-- header:end -->
 Гиперказуальная аркада: блоки едут влево-вправо, тап ставит блок, нависающая часть
 отрезается. Промах = конец. Цикл ~40 секунд.
 
