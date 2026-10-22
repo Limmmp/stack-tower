@@ -8,6 +8,8 @@
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Canvas_2D-E34F26?style=flat-square&logo=html5&logoColor=white" alt="Canvas 2D"> <img src="https://img.shields.io/badge/Яндекс_Игры-FC3F1D?style=flat-square&logo=yandex&logoColor=white" alt="Яндекс Игры">
 
+<a href="https://limmmp.github.io/stack-tower/"><img src="https://img.shields.io/badge/▶_Играть-000000?style=for-the-badge" alt="Демо"></a>
+
 </div>
 
 <table>
